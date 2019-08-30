@@ -1,10 +1,11 @@
 package com.qa.simpleplantemp;
 
-public class Adventure {
+import acm.*;
+import java.io*;
+import java.util*;
 
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+public class Adventure extends SuperAdventure {
 
-	}
-
+	
+	// private methods and inst variables
 }

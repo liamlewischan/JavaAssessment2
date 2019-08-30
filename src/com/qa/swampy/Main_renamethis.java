@@ -6,7 +6,7 @@ public class Main_renamethis {
 
     public static void main(String[] args) {
     	
-    	// Builds the Tesselating Swamp
+    	// Builds the Tesselating Swamp, took nearly 3 hours, not sure how to interface with rest of code
         Scanner input = new Scanner(System.in);
         InSwamp swamp;
 
